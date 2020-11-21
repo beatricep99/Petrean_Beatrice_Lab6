@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petrean_Beatrice_Lab6", "Petrean_Beatrice_Lab6.csproj", "{D599608C-F578-4C23-91AA-A92F1506E211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{7B954985-EBC7-46A2-9C56-BD5F23A43BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D599608C-F578-4C23-91AA-A92F1506E211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D599608C-F578-4C23-91AA-A92F1506E211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D599608C-F578-4C23-91AA-A92F1506E211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D599608C-F578-4C23-91AA-A92F1506E211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B954985-EBC7-46A2-9C56-BD5F23A43BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B954985-EBC7-46A2-9C56-BD5F23A43BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B954985-EBC7-46A2-9C56-BD5F23A43BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B954985-EBC7-46A2-9C56-BD5F23A43BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAF77B6C-363C-420B-BD15-4F6989CCD0E5}
+	EndGlobalSection
+EndGlobal
